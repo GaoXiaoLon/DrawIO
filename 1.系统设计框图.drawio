@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T06:57:33.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RlJvHGUgPcBGQKb5y6Ax" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T07:09:25.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="k6kOZ4O3ITdFj87fMhp0" version="24.3.0" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="1195" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zjSSMuX_inl-teEdnPAB-23" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-23" value="" style="group;fontStyle=1" parent="1" vertex="1" connectable="0">
           <mxGeometry x="230" y="180" width="660" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-1" target="zjSSMuX_inl-teEdnPAB-4">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-1" target="zjSSMuX_inl-teEdnPAB-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="120" />
@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-1" target="zjSSMuX_inl-teEdnPAB-5">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-1" target="zjSSMuX_inl-teEdnPAB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="120" />
@@ -23,15 +23,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-17" value="下达&lt;div&gt;控制信号&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="zjSSMuX_inl-teEdnPAB-9">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-17" value="下达&lt;div&gt;控制信号&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1;fontFamily=宋体;" parent="zjSSMuX_inl-teEdnPAB-9" vertex="1" connectable="0">
           <mxGeometry x="-0.4286" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-1" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;主控板&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjSSMuX_inl-teEdnPAB-23">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;主控板&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" vertex="1">
           <mxGeometry x="250" y="90" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-2" target="zjSSMuX_inl-teEdnPAB-1">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-2" target="zjSSMuX_inl-teEdnPAB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="90" />
@@ -39,10 +39,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;温湿度传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjSSMuX_inl-teEdnPAB-23">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;温湿度传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" vertex="1">
           <mxGeometry y="70" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-3" target="zjSSMuX_inl-teEdnPAB-1">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-3" target="zjSSMuX_inl-teEdnPAB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="150" />
@@ -50,41 +50,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-15" value="上传数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjSSMuX_inl-teEdnPAB-14">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-15" value="上传数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontFamily=宋体;labelBackgroundColor=none;" parent="zjSSMuX_inl-teEdnPAB-14" vertex="1" connectable="0">
           <mxGeometry x="0.3738" y="1" relative="1" as="geometry">
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;光照强度传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjSSMuX_inl-teEdnPAB-23">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;光照强度传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" vertex="1">
           <mxGeometry y="130" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;LED&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjSSMuX_inl-teEdnPAB-23">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-4" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;LED&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" vertex="1">
           <mxGeometry x="520" y="70" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;直流电机&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjSSMuX_inl-teEdnPAB-23">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;直流电机&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" vertex="1">
           <mxGeometry x="520" y="130" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;LCD&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;触摸屏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjSSMuX_inl-teEdnPAB-23">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-6" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;LCD&lt;/font&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;触摸屏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" vertex="1">
           <mxGeometry x="260" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-7" target="zjSSMuX_inl-teEdnPAB-1">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-7" target="zjSSMuX_inl-teEdnPAB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-22" value="装载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjSSMuX_inl-teEdnPAB-21">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-22" value="装载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontFamily=宋体;labelBackgroundColor=none;" parent="zjSSMuX_inl-teEdnPAB-21" vertex="1" connectable="0">
           <mxGeometry x="-0.0133" y="-2" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;OpenHarmony&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zjSSMuX_inl-teEdnPAB-23">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-7" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;OpenHarmony 3.0&lt;/font&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=none;" parent="zjSSMuX_inl-teEdnPAB-23" vertex="1">
           <mxGeometry x="260" y="200" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-1" target="zjSSMuX_inl-teEdnPAB-6">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" parent="zjSSMuX_inl-teEdnPAB-23" source="zjSSMuX_inl-teEdnPAB-1" target="zjSSMuX_inl-teEdnPAB-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="40" as="sourcePoint" />
             <mxPoint x="510" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjSSMuX_inl-teEdnPAB-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;HAP&lt;/font&gt;包软件&lt;div&gt;进行交互&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zjSSMuX_inl-teEdnPAB-18">
+        <mxCell id="zjSSMuX_inl-teEdnPAB-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;HAP&lt;/font&gt;包软件&lt;div&gt;进行交互&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontFamily=宋体;labelBackgroundColor=none;" parent="zjSSMuX_inl-teEdnPAB-18" vertex="1" connectable="0">
           <mxGeometry x="0.0041" relative="1" as="geometry">
             <mxPoint x="29" as="offset" />
           </mxGeometry>
