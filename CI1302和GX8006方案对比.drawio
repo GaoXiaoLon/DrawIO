@@ -72,8 +72,10 @@
         <mxCell id="gc92vhWBIVucX5ZvFRtl-45" value="GX8006" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="478" y="413" width="113" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="gc92vhWBIVucX5ZvFRtl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gc92vhWBIVucX5ZvFRtl-46" target="gc92vhWBIVucX5ZvFRtl-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gc92vhWBIVucX5ZvFRtl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gc92vhWBIVucX5ZvFRtl-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="591" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gc92vhWBIVucX5ZvFRtl-46" value="3863" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="413" width="92" height="54" as="geometry" />
@@ -88,13 +90,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gc92vhWBIVucX5ZvFRtl-52" value="I2C" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;rounded=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gc92vhWBIVucX5ZvFRtl-45" target="gc92vhWBIVucX5ZvFRtl-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="700" y="422" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gc92vhWBIVucX5ZvFRtl-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0;entryY=0.75;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gc92vhWBIVucX5ZvFRtl-45" target="gc92vhWBIVucX5ZvFRtl-46">
+        <mxCell id="gc92vhWBIVucX5ZvFRtl-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gc92vhWBIVucX5ZvFRtl-45" target="gc92vhWBIVucX5ZvFRtl-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gc92vhWBIVucX5ZvFRtl-69" value="I2S" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gc92vhWBIVucX5ZvFRtl-53">
