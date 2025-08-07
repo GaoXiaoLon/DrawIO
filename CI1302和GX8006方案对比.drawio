@@ -13,6 +13,9 @@
         <mxCell id="gc92vhWBIVucX5ZvFRtl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gc92vhWBIVucX5ZvFRtl-1" target="gc92vhWBIVucX5ZvFRtl-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gc92vhWBIVucX5ZvFRtl-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="gc92vhWBIVucX5ZvFRtl-1" target="gc92vhWBIVucX5ZvFRtl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gc92vhWBIVucX5ZvFRtl-1" value="麦克风" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="143" width="108" height="54" as="geometry" />
         </mxCell>
@@ -30,19 +33,6 @@
         </mxCell>
         <mxCell id="gc92vhWBIVucX5ZvFRtl-5" value="喇叭" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="895" y="143" width="92" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="gc92vhWBIVucX5ZvFRtl-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.27;entryY=0;rounded=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="gc92vhWBIVucX5ZvFRtl-1" target="gc92vhWBIVucX5ZvFRtl-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="313" y="90" />
-              <mxPoint x="699" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gc92vhWBIVucX5ZvFRtl-21" value="唤醒后" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gc92vhWBIVucX5ZvFRtl-9">
-          <mxGeometry x="-0.0332" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="gc92vhWBIVucX5ZvFRtl-10" value="INT" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.26;entryX=0;entryY=0.28;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="gc92vhWBIVucX5ZvFRtl-2" target="gc92vhWBIVucX5ZvFRtl-4">
           <mxGeometry relative="1" as="geometry">
