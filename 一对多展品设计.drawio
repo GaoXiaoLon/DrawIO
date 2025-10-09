@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="第 1 页" id="UBA8rxWIlE0xxHcuCf44">
-    <mxGraphModel dx="1351" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,7 +218,7 @@
         <mxCell id="LNeRJviqGF3agmTZl-Rf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="LNeRJviqGF3agmTZl-Rf-13" target="LNeRJviqGF3agmTZl-Rf-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LNeRJviqGF3agmTZl-Rf-13" value="HH-K01&lt;font id=&quot;1&quot; data-immersive-translate-loading-id=&quot;&quot; lang=&quot;zh-CN&quot; translate=&quot;no&quot; class=&quot;notranslate immersive-translate-target-wrapper&quot;&gt;&amp;nbsp; &lt;font class=&quot;immersive-translate-loading-spinner notranslate&quot;&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LNeRJviqGF3agmTZl-Rf-13" value="HH-K01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="995" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LNeRJviqGF3agmTZl-Rf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="LNeRJviqGF3agmTZl-Rf-15" target="LNeRJviqGF3agmTZl-Rf-6">
@@ -348,6 +348,25 @@
             <mxPoint x="850" y="1050" as="sourcePoint" />
             <mxPoint x="850" y="1090" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LNeRJviqGF3agmTZl-Rf-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="875" as="sourcePoint" />
+            <mxPoint x="830" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNeRJviqGF3agmTZl-Rf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="826" y="900" as="sourcePoint" />
+            <mxPoint x="780" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNeRJviqGF3agmTZl-Rf-52" value="数据上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="845" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNeRJviqGF3agmTZl-Rf-53" value="命令下发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="900" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
